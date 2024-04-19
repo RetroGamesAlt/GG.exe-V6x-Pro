@@ -1,0 +1,2 @@
+loadstring(Game:HttpGet("https://pastebin.com/raw/q1gQ8Myi"))()
+print('Enter script passkey')
